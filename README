@@ -1,5 +1,6 @@
 === Description
-Oak is bunch of scripts to work easier with vncserver
+Oakvnc is bunch of scripts to work easier with vncserver
+You can find source of script in my github: https://github.com/behradeslamifar/oakvnc
 
 === Author 
 Behrad Eslamifar <b.eslamifar@cvak.ir>
@@ -18,7 +19,7 @@ These script test on Debian (8.0) Jessie and with Mate desktop enviroment and Lu
 - Stop function only kill current config file and cant detect all vncserver session
 
 === Change log
-* Version 1.20
+* Version 1.2.0
 	- Add list option
 	- Add stop-all option
 	- Resolved two bugs (ubuntu and kill function)
